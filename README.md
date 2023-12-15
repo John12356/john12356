@@ -22,17 +22,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/mwlite/profile/in/ruthra-moorthy-k-084104214" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="jhonmoorthi85131@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -80,9 +69,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=john12356&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/john12356/john12356/output/snake.svg" alt="Snake animation" />
 
 ###
